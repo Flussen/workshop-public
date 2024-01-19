@@ -35,6 +35,10 @@ User {
 * Todo debe estar conectado a una base de datos
 * Dejar el archivo SQL de la tabla usuarios en resources
 
+
 ### Para tener en cuenta
 * Tener buenas practicas
 * Evita el codigo comentado
+
+
+> Workshop by [@GalassoX](https://github.com/GalassoX)
